@@ -30,10 +30,13 @@ This project implements a system of AI agents designed to assist in healthcare t
     ```bash
     git clone https://github.com/your-repo/health-advisor-agents.git
     cd health-advisor-agents
+    cd assignment 
     ```
 
 2. **Install Dependencies**:
     ```bash
+    python -m venv venv
+    .\venv\Scripts\activate
     pip install -r requirements.txt
     ```
 
